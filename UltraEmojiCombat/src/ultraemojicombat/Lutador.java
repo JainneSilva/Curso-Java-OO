@@ -1,5 +1,5 @@
 package ultraemojicombat;
-public class Lutador {
+public final class Lutador {
    // Atributos 
     private String nome;
     private String nacionalidade;
