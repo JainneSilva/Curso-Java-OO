@@ -12,6 +12,10 @@ public class Gafanhoto extends Pessoa {
     Gafanhoto(String jubileu, int i, String m, String juba) {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
+
+    Gafanhoto(String jubileu) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
     
 
